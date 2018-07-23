@@ -1,0 +1,13 @@
+{
+  "name": "myAddon",
+  "version": "1.0.0",
+  "description": "TWMaps",
+  "gypfile": true,
+  "main": "./build/Release/myAddon",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.3.3",
+    "node-addon-api": "^1.0.0",
+    "bindings": "~1.2.1"
+  }
+}
